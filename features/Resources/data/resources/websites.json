@@ -300,6 +300,23 @@
       "rating": 4.7,
       "featured": true,
       "notes": "Excellent articles and resource recommendations."
+    },
+    {
+      "id": "diccionario-japones",
+      "name": "Diccionario Japones",
+      "nameJa": "Diccionario Japones",
+      "description": "Kanji dictionary for spanish speakers. / Diccionario de kanji para hablantes de espanol.",
+      "descriptionLong": "A Kanji dictionary and quiz website for Spanish Speakers. / Un sitio web de diccionario de kanji y quiz para hispanohablantes.",
+      "category": "websites",
+      "subcategory": "reference",
+      "tags": ["dictionary", "resources", "free"],
+      "priceType": "freemium",
+      "priceDetails": "Dictionary use is free, quiz tool requires a free account, but some quizzes are paywalled",
+      "platforms": ["web"],
+      "url": "https://diccionariojapones.com/",
+      "rating": 4.2,
+      "featured": false,
+      "notes": "good source for Kanji definitions in Spanish"
     }
   ]
 }
